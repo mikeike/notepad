@@ -83,7 +83,7 @@ public class NotePad extends JFrame implements ActionListener{
 		this.setSize(400,300);
 		this.setVisible(true);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		this.setTitle("NotePad by witk32");
+		this.setTitle("NotePad by witk32 v1.0");
 		
 		
 		
